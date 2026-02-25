@@ -13,6 +13,7 @@ pub enum DataKey {
     TokenB,
 }
 
+#[contract]
 pub struct LiquidityPool;
 
 #[contractimpl]

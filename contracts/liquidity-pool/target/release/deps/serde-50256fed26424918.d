@@ -1,0 +1,14 @@
+/Users/h/Documents/CascadeProjects/level 4/contracts/liquidity-pool/target/release/deps/serde-50256fed26424918.d: /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/h/Documents/CascadeProjects/level\ 4/contracts/liquidity-pool/target/release/build/serde-db8322c0fc87628a/out/private.rs
+
+/Users/h/Documents/CascadeProjects/level 4/contracts/liquidity-pool/target/release/deps/libserde-50256fed26424918.rlib: /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/h/Documents/CascadeProjects/level\ 4/contracts/liquidity-pool/target/release/build/serde-db8322c0fc87628a/out/private.rs
+
+/Users/h/Documents/CascadeProjects/level 4/contracts/liquidity-pool/target/release/deps/libserde-50256fed26424918.rmeta: /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/h/Documents/CascadeProjects/level\ 4/contracts/liquidity-pool/target/release/build/serde-db8322c0fc87628a/out/private.rs
+
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/h/Documents/CascadeProjects/level\ 4/contracts/liquidity-pool/target/release/build/serde-db8322c0fc87628a/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/h/Documents/CascadeProjects/level 4/contracts/liquidity-pool/target/release/build/serde-db8322c0fc87628a/out
