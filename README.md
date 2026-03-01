@@ -1,6 +1,6 @@
 # StellarSwap — Decentralized Exchange on Stellar
 
-[![CI/CD Pipeline](https://github.com/YOUR_USERNAME/stellarswap/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/stellarswap/actions)
+[![CI/CD Pipeline](https://github.com/welson-ai/stellarswap/actions/workflows/ci.yml/badge.svg)](https://github.com/welson-ai/stellarswap/actions)
 [![Vercel Deploy](https://img.shields.io/badge/deployed-vercel-black?logo=vercel)](YOUR_VERCEL_URL)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stellar](https://img.shields.io/badge/Stellar-Testnet-blue?logo=stellar)](https://stellar.org)
