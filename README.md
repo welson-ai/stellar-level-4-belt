@@ -22,7 +22,7 @@
 ![Desktop View](/images/desktop-view.jpeg)
 
 ### Mobile View
-![Mobile View](/images/mobile-view.jpeg)
+![Mobile View](/images/mobile-view.png)
 
 ### CI/CD Pipeline
 > _Add your GitHub Actions screenshot here_
