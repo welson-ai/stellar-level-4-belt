@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-![Desktop View](/images/desktop-view.jpeg)
+![Desktop View](.public/images/desktop-view.jpeg)
 ![Mobile View](/images/mobile-view.png)
 
 ### CI/CD Pipeline
