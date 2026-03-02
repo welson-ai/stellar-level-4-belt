@@ -19,10 +19,10 @@
 ## Screenshots
 
 ### Desktop View
-> _Add your desktop screenshot here_
+![Desktop View](/images/desktop-view.jpeg)
 
 ### Mobile View
-> _Add your mobile screenshot here_
+![Mobile View](/images/mobile-view.jpeg)
 
 ### CI/CD Pipeline
 > _Add your GitHub Actions screenshot here_
@@ -495,7 +495,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Stellar Development Foundation](https://stellar.org) for Soroban
 - [Freighter](https://freighter.app) for the wallet SDK
 - [Uniswap](https://uniswap.org) for the AMM inspiration
-
----
-
-<p align="center">Built with ❤️ on Stellar</p>
