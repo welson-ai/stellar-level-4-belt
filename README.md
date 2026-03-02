@@ -19,7 +19,7 @@
 ## Screenshots
 
 ![Desktop View](public/images/desktop-view.jpeg)
-![Mobile View](/images/mobile-view.png)
+![Mobile View](public/images/mobile-view.png)
 
 ### CI/CD Pipeline
 > _Add your GitHub Actions screenshot here_
