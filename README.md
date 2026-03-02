@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-**[YOUR_VERCEL_URL]([YOUR_VERCEL_URL](https://stellar-level-4-belt.vercel.app/))**
+**(https://stellar-level-4-belt.vercel.app/)**
 
 ---
 
