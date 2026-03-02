@@ -19,7 +19,7 @@
 ## Screenshots
 
 ### Desktop View
-![Desktop View](/images/desktop view.jpeg)
+![Desktop View](/images/desktop-view.jpeg)
 
 ### Mobile View
 ![Mobile View](/images/mobile-view.jpeg)
